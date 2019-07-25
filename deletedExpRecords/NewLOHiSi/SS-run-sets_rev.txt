@@ -1,0 +1,10 @@
+changset:   2395:56f703d2eb912fda6b293e3f589c1210d7a4e290
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Sun May 19 23:14:03 2019 -07:00
+files:      SS-SMELT/HC1612Tune/namelist_cfg_01jan17_1d SS-SMELT/HC1612Tune/spring17_newLOhiSi.yaml SS-SMELT/NewLO/NewLoHiSi_0.yaml SS-SMELT/NewLO/NewLoHiSi_1.yaml SS-SMELT/NewLO/NewLoHiSi_2.yaml SS-SMELT/NewLO/NewLoHiSi_3.yaml SS-SMELT/NewLO/batchDeflate.sh SS-SMELT/NewLO/batchDeflate2.sh SS-SMELT/NewLO/batchDeflate3.sh SS-SMELT/NewLO/batchDeflate3b.sh SS-SMELT/NewLO/batchmv.sh SS-SMELT/NewLO/namelist_cfg_01jan17_50d SS-SMELT/NewLO/namelist_cfg_08sep17_50d SS-SMELT/NewLO/namelist_cfg_11apr17_50d SS-SMELT/NewLO/namelist_cfg_20feb17_50d SS-SMELT/NewLO/namelist_cfg_20jul17_50d SS-SMELT/NewLO/namelist_cfg_28oct17_50d SS-SMELT/NewLO/namelist_cfg_31may17_50d SS-SMELT/NewLO/namelist_smelt_ref_HC1812 SS-SMELT/NewLO/namelist_top_cfg_newLO SS-SMELT/NewLO/spring17_newLOhiSi.yaml SS-SMELT/NewLO/yamlset0.sh SS-SMELT/NewLO/yamlset1.sh SS-SMELT/HC1612Tune/spring15_newLOhiSi.yaml
+description:
+new LO run
+uncommitted changes:
+M SS-SMELT/NewLO/NewLoHiSi_0.yaml
+M SS-SMELT/NewLO/namelist_cfg_01jan17_50d

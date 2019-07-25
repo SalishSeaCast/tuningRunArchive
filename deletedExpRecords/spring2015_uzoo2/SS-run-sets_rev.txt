@@ -1,0 +1,7 @@
+changset:   1889:81780f48711f738bf0591cdc2521c85357e89efd
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Fri Jun 29 22:55:25 2018 -07:00
+files:      SS-SMELT/spring2015/namelist_smelt_cfg_uzoo2 SS-SMELT/spring2015/spring2015_uzoo2.yaml
+description:
+new uzoo test

@@ -1,0 +1,10 @@
+changset:   1814:815d84f23428cd1e90d67ec61032a7f58474f373
+tag:        tip
+user:       Doug Latornell <dlatornell@eoas.ubc.ca>
+date:       Tue Apr 24 16:39:07 2018 -07:00
+files:      v201702/smelt-agrif/file_def.xml v201702/smelt-agrif/subgrids/BaynesSound/file_def.BS.xml v201702/smelt-agrif/subgrids/HaroStrait/file_def.HS.xml
+description:
+Restore smelt-agrif file_defs compression_level attribute.
+
+Running 1 XIOS-2 server with on-the-fly deflation appears to be the
+most efficient way of operating on an orcinus chassis.

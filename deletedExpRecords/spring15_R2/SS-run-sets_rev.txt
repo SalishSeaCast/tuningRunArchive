@@ -1,0 +1,10 @@
+changset:   2260:89500c6821d3e2ddd18ada728f85fa63f5bed869
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Fri Jan 18 17:05:05 2019 -08:00
+files:      SS-SMELT/GLSOut/batchDeflate.sh SS-SMELT/GLSOut/SalishSeaNEMO_finish.sh
+description:
+change file
+uncommitted changes:
+M SS-SMELT/HC1612Tune/yamlset0.sh
+M SS-SMELT/HC1612Tune/yamlset1.sh

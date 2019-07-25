@@ -1,0 +1,7 @@
+changset:   2101:af34903582233052be346a56d3331df5f64a558a
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Sun Sep 30 03:46:53 2018 -07:00
+files:      SS-SMELT/spring2/namelist_smelt_cfg_Base SS-SMELT/spring2/spring2015_Z1_0.yaml
+description:
+fix

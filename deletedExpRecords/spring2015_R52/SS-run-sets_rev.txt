@@ -1,0 +1,9 @@
+changset:   2027:fccdc0040fbf8880a2e3594143cab50584de3802
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Wed Aug 15 15:27:15 2018 -07:00
+files:      SS-SMELT/spring2/namelist_smelt_ref_R52 SS-SMELT/spring2/yamlset.sh SS-SMELT/spring2/spring2015_R52_0.yaml SS-SMELT/spring2/spring2015_R52_1.yaml SS-SMELT/spring2/spring2015_R52_2.yaml SS-SMELT/spring2/spring2015_R52_3.yaml SS-SMELT/spring2/spring2015_R52_4.yaml
+description:
+R52
+uncommitted changes:
+M SS-SMELT/spring2/yamlset.sh

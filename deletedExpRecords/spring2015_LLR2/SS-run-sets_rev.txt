@@ -1,0 +1,7 @@
+changset:   1997:14a118d67bd626edb5b880faeb799ccae57f7721
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Fri Aug 03 15:14:36 2018 -07:00
+files:      SS-SMELT/spring2015/yamlset1.sh
+description:
+bash file

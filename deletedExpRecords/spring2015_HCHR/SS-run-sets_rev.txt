@@ -1,0 +1,7 @@
+changset:   1980:ac387f904e5cf5d5c5b1254680a3ede5f4857bed
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Tue Jul 24 06:16:25 2018 -07:00
+files:      SS-SMELT/spring2015/namelist_smelt_cfg_slowPP3
+description:
+fix namelist

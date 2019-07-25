@@ -1,0 +1,7 @@
+changset:   34:1c863e1a23c4a0964d33064e59ef07e51209102a
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Mon Apr 15 13:24:13 2019 -07:00
+files:      bio/R201812_bioConst_5T.nc
+description:
+test for river turb

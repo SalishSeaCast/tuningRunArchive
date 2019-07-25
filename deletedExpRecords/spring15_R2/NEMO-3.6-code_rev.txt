@@ -1,0 +1,7 @@
+changset:   1558:cab5cd68b3e9c99ccd7db374439e77bb1b2c9be5
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Wed Jan 16 17:07:55 2019 -08:00
+files:      NEMOGCM/CONFIG/SMELT/MY_SRC/zdfgls.F90
+description:
+output some quantities from GLS scheme

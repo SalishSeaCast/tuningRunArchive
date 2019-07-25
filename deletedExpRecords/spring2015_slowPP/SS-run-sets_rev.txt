@@ -1,0 +1,7 @@
+changset:   1886:f70b5d1c3eeb02b0cc7f6200dcedd12b1a69d5dd
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Wed Jun 27 17:54:47 2018 -07:00
+files:      SS-SMELT/spring2015/spring2015_SMELTBKhTOrc.yaml SS-SMELT/spring2015/namelist_smelt_cfg_KhT_B
+description:
+make namelist with sink alpha=1 (reflective)

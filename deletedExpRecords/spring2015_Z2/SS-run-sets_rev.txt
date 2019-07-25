@@ -1,0 +1,10 @@
+changset:   2103:978a9c94c5dc68e4aa29661a4842d8e35739a982
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Fri Oct 05 13:25:53 2018 -07:00
+files:      SS-SMELT/spring2/namelist_smelt_ref_NoMZME SS-SMELT/spring2/namelist_smelt_ref_Z2 SS-SMELT/spring2/namelist_cfg_hc_20150904_1mon SS-SMELT/spring2/namelist_smelt_ref_Z1rep SS-SMELT/spring2/spring2015_NoMZME_3b.yaml SS-SMELT/spring2/spring2015_Z1rep_0.yaml
+description:
+fix accidental deletion of line in recent namelist_smelt_refsand add files
+uncommitted changes:
+M SS-SMELT/spring2/yamlset1new.sh
+! SS-SMELT/spring2/spring2015_Z1rep_0.yaml

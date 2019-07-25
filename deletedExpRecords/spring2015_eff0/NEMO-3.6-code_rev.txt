@@ -1,0 +1,7 @@
+changset:   1518:a72c725951a58811a60c96fa69ee5d104ce67d28
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Fri Oct 05 16:40:35 2018 -07:00
+files:      NEMOGCM/CONFIG/SMELT/EXP00/namelist_smelt_ref
+description:
+added new split bottom boundary reflection parameters to default namelist_smelt_ref

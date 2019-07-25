@@ -1,0 +1,10 @@
+changset:   1988:eb4ee169360e3cb81168e50cd5e2b6d8f39c7235
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Mon Jul 30 11:45:56 2018 -07:00
+files:      SS-SMELT/spring2015/spring2015_HCHR_0.yaml SS-SMELT/spring2015/spring2015_HCHR_1.yaml SS-SMELT/spring2015/spring2015_HCHR_2.yaml SS-SMELT/spring2015/spring2015_HCHR_3.yaml SS-SMELT/spring2015/spring2015_HCHR_4.yaml SS-SMELT/spring2015/spring2015_HCLR_0.yaml SS-SMELT/spring2015/spring2015_HCLR_1.yaml SS-SMELT/spring2015/spring2015_HCLR_2.yaml SS-SMELT/spring2015/spring2015_HCLR_3.yaml SS-SMELT/spring2015/spring2015_HCLR_4.yaml
+description:
+fixing run name
+uncommitted changes:
+M SS-SMELT/spring2015/yamlset.sh
+! SS-SMELT/spring2015/namelist_smelt_cfg_HCLR

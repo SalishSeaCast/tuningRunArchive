@@ -1,0 +1,7 @@
+changset:   1517:b9b171f7da04c10df9f294e48fa0cd3f70c557c8
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Tue Oct 02 13:54:45 2018 -07:00
+files:      NEMOGCM/CONFIG/SMELT/MY_SRC/p4zsink.F90
+description:
+add flexibility to zz_alpha_b parameter- different ones for Si, N, turb

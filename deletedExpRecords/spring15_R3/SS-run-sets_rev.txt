@@ -1,0 +1,10 @@
+changset:   2266:650ce8eb90e8a40805d23005e4a1c4c3bdf784e8
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Mon Jan 28 09:19:51 2019 -08:00
+files:      SS-SMELT/HC1612Tune/namelist_smelt_ref_R3
+description:
+adjust namelist
+uncommitted changes:
+M SS-SMELT/HC1612Tune/batchDeflate.sh
+M SS-SMELT/HC1612Tune/spring15_R3_2.yaml

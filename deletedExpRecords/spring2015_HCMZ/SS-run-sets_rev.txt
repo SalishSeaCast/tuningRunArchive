@@ -1,0 +1,7 @@
+changset:   1979:947eb8902edf8a36cadd838e32cc93655831ef2f
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Mon Jul 23 18:43:15 2018 -07:00
+files:      SS-SMELT/spring2015/namelist_smelt_cfg_HCMZ
+description:
+make HCMZ retain more Si

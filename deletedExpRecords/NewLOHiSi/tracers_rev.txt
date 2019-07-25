@@ -1,0 +1,7 @@
+changset:   41:2bd4b70fb66b8bcaf3d559bcfbce940ce94b287a
+tag:        tip
+user:       SalishSeaNowcast.release_mgmt.tag_release for Susan Allen <sallen@eos.ubc.ca>
+date:       Sat Jan 12 15:34:48 2019 -08:00
+files:      .hgtags
+description:
+Tag production release PROD-hindcast_201812-v2.

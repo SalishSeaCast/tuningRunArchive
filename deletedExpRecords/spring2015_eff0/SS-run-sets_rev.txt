@@ -1,0 +1,9 @@
+changset:   2104:aad34248196e0d563af77d120e209c10952ae337
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Tue Oct 09 10:54:21 2018 -07:00
+files:      SS-SMELT/spring2/yamlset0.sh SS-SMELT/spring2/namelist_cfg_hc_20150206_10d SS-SMELT/spring2/namelist_cfg_hc_20150716_20d SS-SMELT/spring2/namelist_smelt_ref_eff0 SS-SMELT/spring2/spring2015_Z1rep.yaml SS-SMELT/spring2/spring2015_Z2_2b.yaml SS-SMELT/spring2/spring2015_eff0_0.yaml SS-SMELT/spring2/spring2015_eff0_1.yaml SS-SMELT/spring2/spring2015_eff0_2.yaml SS-SMELT/spring2/spring2015_eff0_3.yaml SS-SMELT/spring2/spring2015_eff0_4.yaml SS-SMELT/spring2/spring2015_Z1rep_0.yaml
+description:
+N conserving MZ run
+uncommitted changes:
+M SS-SMELT/spring2/yamlset1new.sh

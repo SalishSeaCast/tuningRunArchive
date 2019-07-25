@@ -1,0 +1,7 @@
+changset:   2291:ae036ce16a285243e7a11d041e24a05b0b4e4586
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Mon Feb 11 17:56:28 2019 -08:00
+files:      SS-SMELT/HC1612Tune/batchDeflate.sh SS-SMELT/HC1612Tune/yamlset0.sh SS-SMELT/HC1612Tune/yamlset1.sh SS-SMELT/HC1612Tune/namelist_smelt_ref_R4NoSiT SS-SMELT/HC1612Tune/spring15_R4NoSiT_0.yaml SS-SMELT/HC1612Tune/spring15_R4NoSiT_1.yaml SS-SMELT/HC1612Tune/spring15_R4NoSiT_2.yaml SS-SMELT/HC1612Tune/spring15_R4NoSiT_3.yaml
+description:
+new run for SMELT without temperature dependence of Si remin

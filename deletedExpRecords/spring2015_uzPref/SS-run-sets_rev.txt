@@ -1,0 +1,7 @@
+changset:   1914:cd1e056bd9d32b21e7f849bc40e9998744003b58
+tag:        tip
+user:       Susan Allen <sallen@eos.ubc.ca>
+date:       Fri Jul 06 15:44:41 2018 -07:00
+files:      v201702/hindcast/cedar_hindcast_template.yaml
+description:
+Update the cedar template to use hindcast/namelist.lateral

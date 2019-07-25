@@ -1,0 +1,13 @@
+changset:   2210:85417579b09880de4221699a36c07489a9cb641b
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Fri Dec 21 17:46:22 2018 -08:00
+files:      SS-parSMELT/file_def.xml.log SS-parSMELT/iofiles/domain_def.xml SS-parSMELT/iofiles/field_def.xml SS-parSMELT/iofiles/file_def.xml.attached SS-parSMELT/iofiles/iodef.xml SS-parSMELT/namelistOPA/namelist_cfg_01dec16_2mon SS-parSMELT/namelistOPA/namelist_cfg_01nov16_2mon SS-parSMELT/namelistOPA/namelist_cfg_02sep16_2mon SS-parSMELT/namelistOPA/namelist_cfg_04jul16_2mon SS-parSMELT/namelistOPA/namelist_cfg_05may16_2mon SS-parSMELT/namelistOPA/namelist_cfg_06jan16_2mon SS-parSMELT/namelistOPA/namelist_cfg_06mar16_2mon SS-parSMELT/namelistOPA/namelist_cfg_07nov15_2mon SS-parSMELT/namelistOPA/namelist_cfg_08sep15_2mon SS-parSMELT/namelistOPA/namelist_cfg_10jul15_2mon SS-parSMELT/namelistOPA/namelist_cfg_11dec16 SS-parSMELT/namelistOPA/namelist_cfg_11jan15_2mon SS-parSMELT/namelistOPA/namelist_cfg_11may15_2mon SS-parSMELT/namelistOPA/namelist_cfg_12mar15_2mon SS-parSMELT/namelist_smelt_cfg_Base SS-parSMELT/namelist_smelt_ref_A1 SS-parSMELT/namelist_top_cfg SS-parSMELT/par16_A1_0.yaml SS-parSMELT/spring16spun_Z7_0.yaml SS-parSMELT/spring16spun_Z7_1.yaml SS-parSMELT/spring16spun_Z7_2.yaml SS-parSMELT/spring16spun_Z7_3.yaml SS-parSMELT/spring16spun_Z7_4.yaml SS-parSMELT/spring16spun_Z7_5.yaml SS-parSMELT/yamlset0.sh SS-parSMELT/yamlset1.sh
+description:
+files for PAR(turb) test runs
+uncommitted changes:
+M SS-parSMELT/iofiles/file_def.xml.attached
+M SS-parSMELT/namelistOPA/namelist_cfg_06jan16_2mon
+M SS-parSMELT/namelistOPA/namelist_cfg_06mar16_2mon
+M SS-parSMELT/par16_A1_0.yaml
+M SS-parSMELT/spring16spun_Z7_1.yaml

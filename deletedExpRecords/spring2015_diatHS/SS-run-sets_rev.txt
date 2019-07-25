@@ -1,0 +1,10 @@
+changset:   1853:7883e76ee23148d8f88cf4df00ccef897d0984b1
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Mon May 14 09:12:03 2018 -07:00
+files:      SS-SMELT/spring2015/namelist_top_cfg_0NNut SS-SMELT/spring2015/spring2015_0NNut_Orc.yaml
+description:
+new run
+uncommitted changes:
+M SS-SMELT/spring2015/namelist_cfg_diatHSrst
+M SS-SMELT/spring2015/spring2015_diatHS_rst.yaml

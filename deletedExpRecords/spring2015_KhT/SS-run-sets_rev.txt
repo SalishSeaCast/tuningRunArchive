@@ -1,0 +1,7 @@
+changset:   1881:c737a2b6d8f7a60f82c562661f08c715c8d8aea5
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Thu Jun 21 17:04:49 2018 -07:00
+files:      SS-SMELT/spring2015/namelist_cfg_diatHSrst SS-SMELT/spring2015/spring2015_diatHS_rst.yaml SS-SMELT/spring2015/file_def.xml.noGrid SS-SMELT/spring2015/namelist_cfg_rstAug2 SS-SMELT/spring2015/namelist_smelt_cfg_MZalpha SS-SMELT/spring2015/namelist_smelt_cfg_diatLight SS-SMELT/spring2015/spring2015_MZalpha.yaml SS-SMELT/spring2015/spring2015_diatHS6_rstAug2.yaml SS-SMELT/spring2015/spring2015_diatLight.yaml
+description:
+tuning

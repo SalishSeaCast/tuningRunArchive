@@ -1,0 +1,29 @@
+hiMZ3: namelist_smelt_cfg_hiMZ
+accidentally very high mesozooplankton levels
+
+!'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+&nampisprod     !   parameters for phytoplankton growth
+!,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+   zz_rate_maxtemp_diat      = 26.0         !: deg C
+   zz_rate_maxtemp_myri      = 31.0         !: deg C
+   zz_rate_maxtemp_nano      = 31.0         !: deg C
+   zz_rate_temprange_diat    = 14.0          !: deg C
+   zz_rate_temprange_myri    = 13.0          !: deg C
+   zz_rate_temprange_nano    = 13.0          !: deg C
+/
+!,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+/
+&nampismezo     !   parameters for microzooplankton
+!,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+   zz_rate_mesozoo_winterconc = 0.41                   ! uM N mesozooplankton background concentration
+   zz_rate_mesozoo_sumpeakval =  0.14, 0.18,  0.22     ! uM N magnitude of mesozooplankton summer concentration peaks
+   zz_rate_mesozoo_sumpeakwid = 281.0,  155.00, 218.0  ! year-days widths of mesozooplankton summer concentration peaks,0)
+   zz_rate_mesozoo_sumpeakpos = 281.000, 155.000, 218.00 ! year-day times of mesozooplankton summer concentration peaks
+/
+!'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+&nampissink     !  Sinking of bio groups
+!,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+   zz_w_sink_D_PON = 5.6e-5        ! m/s PON detritus sinking rate # Jeffery quoting Dune and Bacon
+   zz_w_sink_D_bSi = 5.6e-5        ! m/s  biogenic silicon detritus sinking rate # match NO3 particles
+/
+

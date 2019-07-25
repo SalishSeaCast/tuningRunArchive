@@ -1,0 +1,7 @@
+changset:   1401:9cf7663a6ca2e4b6f3e3f2aacddf49cf611e9a5e
+tag:        tip
+user:       Ben Moore-Maley <bmoorema@eoas.ubc.ca>
+date:       Mon Jul 23 17:37:33 2018 -07:00
+files:      NEMOGCM/CONFIG/SMELT_TRC/MY_SRC/par_my_trc.F90 NEMOGCM/CONFIG/SMELT_TRC/MY_SRC/tranxt.F90 NEMOGCM/CONFIG/SMELT_TRC/MY_SRC/trcini_my_trc.F90 NEMOGCM/CONFIG/SMELT_TRC/MY_SRC/trcsms_my_trc.F90
+description:
+Added behavior back into passive upwelling tracer

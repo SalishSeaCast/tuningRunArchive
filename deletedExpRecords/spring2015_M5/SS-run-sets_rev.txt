@@ -1,0 +1,7 @@
+changset:   2016:ccae89e13112385c9366f5504495d4e296439077
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Fri Aug 10 11:48:39 2018 -07:00
+files:      SS-SMELT/spring2/namelist_smelt_ref_M5 SS-SMELT/spring2/spring2015_M5_0.yaml
+description:
+new run

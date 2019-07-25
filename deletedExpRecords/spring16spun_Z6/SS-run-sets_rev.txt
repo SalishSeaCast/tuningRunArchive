@@ -1,0 +1,9 @@
+changset:   2152:0f2e1f85228ce1dc56d6be6b6185d6d3d06f471b
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Fri Nov 30 16:48:36 2018 -08:00
+files:      SS-SMELT/HC2rep/namelist_cfg_01nov16_2mon SS-SMELT/HC2rep/namelist_cfg_02sep16_2mon SS-SMELT/HC2rep/namelist_cfg_04jul16_2mon SS-SMELT/HC2rep/namelist_cfg_05may16_2mon SS-SMELT/HC2rep/namelist_cfg_06jan16_2mon SS-SMELT/HC2rep/namelist_cfg_06mar16_2mon SS-SMELT/HC2rep/namelist_smelt_ref_Z5.orig SS-SMELT/HC2rep/namelist_smelt_ref_Z6 SS-SMELT/HC2rep/spring15spun_Z6_20.yaml SS-SMELT/HC2rep/spring15spun_Z6_21.yaml SS-SMELT/HC2rep/spring15spun_Z6_22.yaml SS-SMELT/HC2rep/spring15spun_Z6_23.yaml SS-SMELT/HC2rep/spring15spun_Z6_24.yaml SS-SMELT/HC2rep/spring15spun_Z6_25.yaml SS-SMELT/HC2rep/yamlset0.sh.orig SS-SMELT/HC2rep/yamlset02.sh
+description:
+new run
+uncommitted changes:
+M SS-SMELT/HC2rep/spring15spun_Z6_25.yaml

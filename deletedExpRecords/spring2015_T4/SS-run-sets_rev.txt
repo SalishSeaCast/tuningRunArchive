@@ -1,0 +1,10 @@
+changset:   2032:c432fc0debfce95447551b759adc55fb24af90d0
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Sun Aug 26 12:48:30 2018 -07:00
+files:      SS-SMELT/spring2/yamlset.sh SS-SMELT/spring2/yamlset0.sh SS-SMELT/spring2/namelist_cfg_hc_20150517short SS-SMELT/spring2/namelist_smelt_ref_T3 SS-SMELT/spring2/spring2015_Aug2_short.yaml SS-SMELT/spring2/spring2015_T3_0.yaml SS-SMELT/spring2/spring2015_T3_1.yaml SS-SMELT/spring2/spring2015_T3_2.yaml SS-SMELT/spring2/spring2015_T3_3.yaml SS-SMELT/spring2/spring2015_T3_4.yaml
+description:
+T3
+uncommitted changes:
+M SS-SMELT/spring2/yamlset.sh
+M SS-SMELT/spring2/yamlset0.sh

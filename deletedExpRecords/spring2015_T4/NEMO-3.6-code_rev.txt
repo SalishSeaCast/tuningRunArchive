@@ -1,0 +1,7 @@
+changset:   1463:8492990b278deec1983759d4894dd1c41766752c
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Mon Aug 27 23:31:04 2018 -07:00
+files:      NEMOGCM/CONFIG/SMELT/MY_SRC/trczdf.F90
+description:
+move code

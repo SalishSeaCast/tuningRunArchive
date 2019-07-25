@@ -1,0 +1,8 @@
+changset:   1413:3ea7eaa19dce84fb55f9d2ee0be52879951b417f
+user:       Susan Allen <sallen@eos.ubc.ca>
+date:       Thu Aug 16 14:13:25 2018 -07:00
+files:      NEMOGCM/CONFIG/SalishSea/MY_SRC/bdydyn3d.F90 NEMOGCM/CONFIG/SalishSea/MY_SRC/bdylib.F90
+description:
+Move Orlanski corrections to SalishSea and thus SMELT
+uncommitted changes:
+R NEMOGCM/CONFIG/SMELT/MY_SRC/trczdf.F90

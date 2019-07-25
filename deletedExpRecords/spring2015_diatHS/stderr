@@ -1,0 +1,1 @@
+slurmstepd: error: run_script_as_user: couldn't change working dir to /scratch/eolson/spring2015_diatHS_2018-05-27T150827.716524-0700: No such file or directory

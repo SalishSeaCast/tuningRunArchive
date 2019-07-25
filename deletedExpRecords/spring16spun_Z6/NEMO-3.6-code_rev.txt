@@ -1,0 +1,7 @@
+changset:   1520:7d8e628dece8d3b83814e9aae54fa4e596c0ae26
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Wed Nov 07 16:18:28 2018 -08:00
+files:      NEMOGCM/CONFIG/SMELT/MY_SRC/bdy_oce.F90 NEMOGCM/CONFIG/SMELT/MY_SRC/bdyini.F90 NEMOGCM/CONFIG/SMELT/MY_SRC/bdydyn2d.F90 NEMOGCM/CONFIG/SMELT/MY_SRC/agrif_user.F90 NEMOGCM/CONFIG/SMELT/MY_SRC/diawri.F90 NEMOGCM/CONFIG/SMELT/MY_SRC/stpctl.F90
+description:
+bring Susan's SSH shift into SMELT
