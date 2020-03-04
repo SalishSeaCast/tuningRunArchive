@@ -1,0 +1,9 @@
+changset:   2108:f57e1400503620d31dfb0f723e2b3e5603016770
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Mon Oct 22 11:12:04 2018 -07:00
+files:      SS-SMELT/spring2/yamlset0.sh SS-SMELT/spring2/yamlset1new.sh SS-SMELT/spring2/namelist_cfg_hc_20151203_2mon SS-SMELT/spring2/spring2015_Z3_5.yaml
+description:
+use optimal decomposition and lengthen run
+uncommitted changes:
+M SS-SMELT/spring2/namelist_smelt_ref_Z3

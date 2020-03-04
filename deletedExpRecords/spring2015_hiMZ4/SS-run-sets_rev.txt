@@ -1,0 +1,7 @@
+changset:   1960:f85d459a0a8edeec3c97b3a5f36e1b1d51f26028
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Mon Jul 16 18:19:34 2018 -07:00
+files:      SS-SMELT/spring2015/namelist_cfg_20151103 SS-SMELT/spring2015/spring2015_hiNHlowFrst3.yaml
+description:
+restart old

@@ -1,0 +1,17 @@
+changset:   1999:16c7a6c7cbd03b4c3193f9a2c098f85659a6cd6e
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Fri Aug 03 17:56:26 2018 -07:00
+files:      SS-SMELT/spring2/namelist_smelt_ref_Aug
+description:
+prep for new ref run
+uncommitted changes:
+M SS-SMELT/spring2/namelist_cfg_hc_20150407_2mon
+M SS-SMELT/spring2/namelist_cfg_hc_20150606_2mon
+M SS-SMELT/spring2/namelist_cfg_hc_20150805_2mon
+M SS-SMELT/spring2/spring2015_AugBase_0.yaml
+M SS-SMELT/spring2/spring2015_AugBase_1.yaml
+M SS-SMELT/spring2/spring2015_AugBase_2.yaml
+M SS-SMELT/spring2/spring2015_AugBase_3.yaml
+M SS-SMELT/spring2/spring2015_AugBase_4.yaml
+! SS-SMELT/spring2/namelist_cfg_hc_20151004_2mon

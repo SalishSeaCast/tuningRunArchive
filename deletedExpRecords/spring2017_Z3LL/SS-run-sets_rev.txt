@@ -1,0 +1,12 @@
+changset:   2117:059a83029c17a18996ac3c199a2ae00a48f39ea1
+tag:        tip
+user:       Elise Olson <eolson@eos.ubc.ca>
+date:       Sat Nov 03 22:33:19 2018 -07:00
+files:      SS-SMELT/spring2/namelist_cfg_hc_20170201_5day SS-SMELT/spring2/namelist_cfg_hc_20170206_2mon SS-SMELT/spring2/namelist_cfg_hc_20170407_2mon SS-SMELT/spring2/spring2017_Z3LL_m1.yaml
+description:
+fix ssh path for 2017
+uncommitted changes:
+M SS-SMELT/spring2/namelist_cfg_hc_20170206_2mon
+M SS-SMELT/spring2/namelist_cfg_hc_20170407_2mon
+M SS-SMELT/spring2/spring2017_Z3LL_0.yaml
+M SS-SMELT/spring2/spring2017_Z3LL_1.yaml
